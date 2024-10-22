@@ -17,4 +17,5 @@ Importante para usar la API:
     donde "[1,2]" pueden ser cualquier ID deseada de fabricantes.
 
 -Adjunto imagen del Modelo Entidad Relación generado con DBeaver.
+
 ![DER](database_development.sqlite.png)
